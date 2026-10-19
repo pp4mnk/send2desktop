@@ -6,6 +6,8 @@ To install it, open a terminal in the folder containing the script and run:
 bash send-to-desktop.sh
 ```
 
+OF COURSE, YOU CAN INSTALL IT EASYLY ONLY CLICKING ON IT AND CHOOSING EXECUTE.
+
 To create a shortcut:
 
 1. Open `/usr/share/applications` in ROX-Filer.
