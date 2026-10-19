@@ -3,7 +3,7 @@
 To install it, open a terminal in the folder containing the script and run:
 
 ```bash
-bash install-rox-send-to-desktop.sh
+bash send-to-desktop.sh
 ```
 
 To create a shortcut:
